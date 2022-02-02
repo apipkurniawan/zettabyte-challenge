@@ -46,3 +46,12 @@ function result(arr1, arr2) {
 }
 
 console.log(result(arr1, arr2));
+
+
+function onBuy() {
+    alert('success')
+}
+
+function onClickCard() {
+    alert('card is selected')
+}
